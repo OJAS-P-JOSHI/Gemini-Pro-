@@ -5,7 +5,7 @@ import "./index.css";
 import { UserProvider } from "./context/UserContext.jsx";
 import { ChatProvider } from "./context/ChatContext.jsx";
 
-export const server = "https://gemini-pro-plus.vercel.app/";
+export const server = "https://gemini-pro-ojas-p-joshis-projects.vercel.app/";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
