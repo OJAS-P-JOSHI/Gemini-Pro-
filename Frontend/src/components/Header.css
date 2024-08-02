@@ -1,0 +1,43 @@
+@keyframes neonGlow {
+    0% {
+      text-shadow: 
+        0 0 4px #ff0081, 
+        0 0 8px #ff0081, 
+        0 0 16px #ff0081, 
+        0 0 32px #ff0081, 
+        0 0 64px #ff0081;
+    }
+    25% {
+      text-shadow: 
+        0 0 4px #00ff8c, 
+        0 0 8px #00ff8c, 
+        0 0 16px #00ff8c, 
+        0 0 32px #00ff8c, 
+        0 0 64px #00ff8c;
+    }
+    50% {
+      text-shadow: 
+        0 0 4px #00d4ff, 
+        0 0 8px #00d4ff, 
+        0 0 16px #00d4ff, 
+        0 0 32px #00d4ff, 
+        0 0 64px #00d4ff;
+    }
+    75% {
+      text-shadow: 
+        0 0 4px #ff7b00, 
+        0 0 8px #ff7b00, 
+        0 0 16px #ff7b00, 
+        0 0 32px #ff7b00, 
+        0 0 64px #ff7b00;
+    }
+    100% {
+      text-shadow: 
+        0 0 4px #ff0081, 
+        0 0 8px #ff0081, 
+        0 0 16px #ff0081, 
+        0 0 32px #ff0081, 
+        0 0 64px #ff0081;
+    }
+  }
+  
